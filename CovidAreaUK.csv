@@ -160,6 +160,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 10/12/2020,region,E12000009,South West,700,32
 26/10/2020,region,E12000002,North West,4724,25
 09/12/2020,region,E12000009,South West,594,28
+31/01/2021,region,E12000004,East Midlands,2241,105
 30/01/2021,region,E12000004,East Midlands,2241,105
 29/01/2021,region,E12000004,East Midlands,2489,108
 01/02/2021,region,E12000001,North East,715,14
@@ -761,6 +762,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 19/11/2020,region,E12000008,South East,2527,24
 18/11/2020,region,E12000008,South East,1784,23
 16/11/2020,region,E12000007,London,674,8
+20/01/2021,region,E12000006,East of England,3556,254
 19/01/2021,region,E12000006,East of England,3556,254
 20/07/2020,region,E12000002,North West,130,0
 05/10/2020,region,E12000004,East Midlands,712,1
@@ -1503,7 +1505,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 18/09/2020,region,E12000006,East of England,107,1
 03/07/2020,region,E12000004,East Midlands,113,0
 02/07/2020,region,E12000004,East Midlands,96,0
-01/07/2020,region,E12000004,East Midlands,10820,0
+01/07/2020,region,E12000004,East Midlands,10,0
 30/06/2020,region,E12000004,East Midlands,19,0
 23/06/2020,region,E12000007,London,18,0
 22/06/2020,region,E12000007,London,21,0
@@ -2151,7 +2153,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 03/07/2020,region,E12000006,East of England,47,0
 02/07/2020,region,E12000006,East of England,24,0
 09/06/2020,region,E12000008,South East,77,0
-01/07/2020,region,E12000006,East of England,7898,0
+01/07/2020,region,E12000006,East of England,78,0
 08/06/2020,region,E12000008,South East,16,0
 07/06/2020,region,E12000008,South East,46,0
 06/06/2020,region,E12000008,South East,92,0
