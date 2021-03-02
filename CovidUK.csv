@@ -1,4 +1,6 @@
 date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDate
+02/03/2021,overview,K02000001,United Kingdom,6391,343
+01/03/2021,overview,K02000001,United Kingdom,5455,104
 28/02/2021,overview,K02000001,United Kingdom,6035,144
 27/02/2021,overview,K02000001,United Kingdom,7434,290
 26/02/2021,overview,K02000001,United Kingdom,8523,345
@@ -42,6 +44,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 19/01/2021,overview,K02000001,United Kingdom,33355,1610
 18/01/2021,overview,K02000001,United Kingdom,37535,599
 17/01/2021,overview,K02000001,United Kingdom,38598,671
+16/01/2021,overview,K02000001,United Kingdom,41346,1295
 15/01/2021,overview,K02000001,United Kingdom,55761,1280
 14/01/2021,overview,K02000001,United Kingdom,48682,1248
 13/01/2021,overview,K02000001,United Kingdom,47525,1564
@@ -102,12 +105,12 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 19/11/2020,overview,K02000001,United Kingdom,22915,501
 18/11/2020,overview,K02000001,United Kingdom,19609,529
 17/11/2020,overview,K02000001,United Kingdom,20051,598
+16/11/2020,overview,K02000001,United Kingdom,21363,213
 15/11/2020,overview,K02000001,United Kingdom,24962,168
 14/11/2020,overview,K02000001,United Kingdom,26860,462
 13/11/2020,overview,K02000001,United Kingdom,27301,376
 12/11/2020,overview,K02000001,United Kingdom,33470,563
 11/11/2020,overview,K02000001,United Kingdom,22950,595
-10/11/2020,overview,K02000001,United Kingdom,20412,532
 09/11/2020,overview,K02000001,United Kingdom,21350,194
 08/11/2020,overview,K02000001,United Kingdom,20572,156
 07/11/2020,overview,K02000001,United Kingdom,24957,413
@@ -150,7 +153,6 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 01/10/2020,overview,K02000001,United Kingdom,6914,59
 30/09/2020,overview,K02000001,United Kingdom,7108,71
 29/09/2020,overview,K02000001,United Kingdom,7143,71
-28/09/2020,overview,K02000001,United Kingdom,4044,13
 27/09/2020,overview,K02000001,United Kingdom,5693,17
 26/09/2020,overview,K02000001,United Kingdom,6042,34
 25/09/2020,overview,K02000001,United Kingdom,6874,35
@@ -190,8 +192,10 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 22/08/2020,overview,K02000001,United Kingdom,1288,18
 21/08/2020,overview,K02000001,United Kingdom,1033,2
 20/08/2020,overview,K02000001,United Kingdom,1182,6
+19/08/2020,overview,K02000001,United Kingdom,812,16
 18/08/2020,overview,K02000001,United Kingdom,1089,12
 17/08/2020,overview,K02000001,United Kingdom,713,3
+16/08/2020,overview,K02000001,United Kingdom,1040,5
 15/08/2020,overview,K02000001,United Kingdom,1077,3
 14/08/2020,overview,K02000001,United Kingdom,1441,11
 13/08/2020,overview,K02000001,United Kingdom,1129,18
@@ -245,7 +249,6 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 26/06/2020,overview,K02000001,United Kingdom,1006,79
 25/06/2020,overview,K02000001,United Kingdom,1118,99
 24/06/2020,overview,K02000001,United Kingdom,653,87
-23/06/2020,overview,K02000001,United Kingdom,874,94
 22/06/2020,overview,K02000001,United Kingdom,958,14
 21/06/2020,overview,K02000001,United Kingdom,1221,31
 20/06/2020,overview,K02000001,United Kingdom,1295,71
@@ -274,6 +277,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 28/05/2020,overview,K02000001,United Kingdom,1887,343
 27/05/2020,overview,K02000001,United Kingdom,2013,422
 26/05/2020,overview,K02000001,United Kingdom,2004,131
+25/05/2020,overview,K02000001,United Kingdom,1625,104
 24/05/2020,overview,K02000001,United Kingdom,2409,379
 23/05/2020,overview,K02000001,United Kingdom,2959,220
 22/05/2020,overview,K02000001,United Kingdom,3287,291
@@ -417,8 +421,6 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 05/01/2020,overview,K02000001,United Kingdom,0,0
 04/01/2020,overview,K02000001,United Kingdom,0,0
 03/01/2020,overview,K02000001,United Kingdom,0,0
-16/01/2021,overview,K02000001,United Kingdom,41346,1295
-16/11/2020,overview,K02000001,United Kingdom,21363,213
-19/08/2020,overview,K02000001,United Kingdom,812,16
-16/08/2020,overview,K02000001,United Kingdom,1040,5
-25/05/2020,overview,K02000001,United Kingdom,1625,104
+10/11/2020,overview,K02000001,United Kingdom,20412,532
+28/09/2020,overview,K02000001,United Kingdom,4044,13
+23/06/2020,overview,K02000001,United Kingdom,874,94
