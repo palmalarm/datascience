@@ -1,4 +1,7 @@
 date,areaType,areaCode,areaName,newCasesByPublishDate
+10/03/2021,ltla,E07000224,Arun,17
+09/03/2021,ltla,E07000224,Arun,11
+08/03/2021,ltla,E07000224,Arun,12
 07/03/2021,ltla,E07000224,Arun,15
 06/03/2021,ltla,E07000224,Arun,14
 05/03/2021,ltla,E07000224,Arun,20
@@ -45,6 +48,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 23/01/2021,ltla,E07000224,Arun,87
 22/01/2021,ltla,E07000224,Arun,114
 21/01/2021,ltla,E07000224,Arun,117
+20/01/2021,ltla,E07000224,Arun,86
 19/01/2021,ltla,E07000224,Arun,79
 18/01/2021,ltla,E07000224,Arun,108
 17/01/2021,ltla,E07000224,Arun,156
@@ -87,6 +91,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 11/12/2020,ltla,E07000224,Arun,22
 10/12/2020,ltla,E07000224,Arun,42
 09/12/2020,ltla,E07000224,Arun,15
+08/12/2020,ltla,E07000224,Arun,16
 07/12/2020,ltla,E07000224,Arun,16
 06/12/2020,ltla,E07000224,Arun,22
 05/12/2020,ltla,E07000224,Arun,9
@@ -149,6 +154,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 09/10/2020,ltla,E07000224,Arun,7
 08/10/2020,ltla,E07000224,Arun,10
 07/10/2020,ltla,E07000224,Arun,0
+06/10/2020,ltla,E07000224,Arun,9
 05/10/2020,ltla,E07000224,Arun,5
 04/10/2020,ltla,E07000224,Arun,13
 03/10/2020,ltla,E07000224,Arun,8
@@ -199,6 +205,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 19/08/2020,ltla,E07000224,Arun,0
 18/08/2020,ltla,E07000224,Arun,1
 17/08/2020,ltla,E07000224,Arun,0
+16/08/2020,ltla,E07000224,Arun,1
 15/08/2020,ltla,E07000224,Arun,2
 14/08/2020,ltla,E07000224,Arun,2
 13/08/2020,ltla,E07000224,Arun,0
@@ -271,6 +278,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 07/06/2020,ltla,E07000224,Arun,0
 06/06/2020,ltla,E07000224,Arun,0
 05/06/2020,ltla,E07000224,Arun,0
+04/06/2020,ltla,E07000224,Arun,0
 03/06/2020,ltla,E07000224,Arun,0
 02/06/2020,ltla,E07000224,Arun,1
 01/06/2020,ltla,E07000224,Arun,0
@@ -362,11 +370,13 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 07/03/2020,ltla,E07000224,Arun,0
 06/03/2020,ltla,E07000224,Arun,0
 05/03/2020,ltla,E07000224,Arun,0
+04/03/2020,ltla,E07000224,Arun,0
 03/03/2020,ltla,E07000224,Arun,0
 02/03/2020,ltla,E07000224,Arun,0
 01/03/2020,ltla,E07000224,Arun,0
 29/02/2020,ltla,E07000224,Arun,0
 28/02/2020,ltla,E07000224,Arun,0
+27/02/2020,ltla,E07000224,Arun,0
 26/02/2020,ltla,E07000224,Arun,0
 25/02/2020,ltla,E07000224,Arun,0
 24/02/2020,ltla,E07000224,Arun,0
@@ -422,10 +432,3 @@ date,areaType,areaCode,areaName,newCasesByPublishDate
 05/01/2020,ltla,E07000224,Arun,0
 04/01/2020,ltla,E07000224,Arun,0
 03/01/2020,ltla,E07000224,Arun,0
-20/01/2021,ltla,E07000224,Arun,86
-08/12/2020,ltla,E07000224,Arun,16
-06/10/2020,ltla,E07000224,Arun,9
-16/08/2020,ltla,E07000224,Arun,1
-04/06/2020,ltla,E07000224,Arun,0
-04/03/2020,ltla,E07000224,Arun,0
-27/02/2020,ltla,E07000224,Arun,0
