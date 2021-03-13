@@ -1,4 +1,5 @@
 date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDate
+13/03/2021,overview,K02000001,United Kingdom,5534,121
 12/03/2021,overview,K02000001,United Kingdom,6609,175
 11/03/2021,overview,K02000001,United Kingdom,6753,181
 10/03/2021,overview,K02000001,United Kingdom,5926,190
@@ -106,6 +107,7 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 28/11/2020,overview,K02000001,United Kingdom,15871,479
 27/11/2020,overview,K02000001,United Kingdom,16022,521
 26/11/2020,overview,K02000001,United Kingdom,17555,498
+25/11/2020,overview,K02000001,United Kingdom,18213,696
 24/11/2020,overview,K02000001,United Kingdom,11299,608
 23/11/2020,overview,K02000001,United Kingdom,15450,206
 22/11/2020,overview,K02000001,United Kingdom,18662,398
@@ -433,4 +435,3 @@ date,areaType,areaCode,areaName,newCasesByPublishDate,newDeaths28DaysByPublishDa
 05/01/2020,overview,K02000001,United Kingdom,0,0
 04/01/2020,overview,K02000001,United Kingdom,0,0
 03/01/2020,overview,K02000001,United Kingdom,0,0
-25/11/2020,overview,K02000001,United Kingdom,18213,696
