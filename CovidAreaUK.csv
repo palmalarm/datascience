@@ -1,4 +1,94 @@
 areaCode,areaName,areaType,date,newCasesByPublishDate,newCasesByPublishDateRollingRate,newDeaths28DaysByPublishDate
+E12000001,North East,region,29/07/2021,1498,415.7,4
+E12000001,North East,region,28/07/2021,1430,454.4,7
+E12000001,North East,region,27/07/2021,1265,507.1,15
+E12000001,North East,region,26/07/2021,1443,572.1,0
+E12000001,North East,region,25/07/2021,1522,636.4,8
+E12000001,North East,region,24/07/2021,1830,725.1,9
+E12000001,North East,region,23/07/2021,2112,823.4,7
+E12000001,North East,region,22/07/2021,2531,892.5,7
+E12000001,North East,region,21/07/2021,2837,936.2,6
+E12000001,North East,region,20/07/2021,3001,959,6
+E12000001,North East,region,19/07/2021,3159,974.5,1
+E12000001,North East,region,18/07/2021,3889,969,0
+E12000001,North East,region,17/07/2021,4454,962.9,4
+E12000001,North East,region,16/07/2021,3959,905.3,8
+E12000001,North East,region,15/07/2021,3697,879.2,7
+E12000001,North East,region,14/07/2021,3447,864.5,4
+E12000001,North East,region,13/07/2021,3413,847.7,4
+E12000001,North East,region,12/07/2021,3012,826.3,1
+E12000001,North East,region,11/07/2021,3726,807.6,2
+E12000001,North East,region,10/07/2021,2918,754.1,1
+E12000001,North East,region,09/07/2021,3261,737.3,1
+E12000001,North East,region,08/07/2021,3305,699,6
+E12000001,North East,region,07/07/2021,2999,668.7,1
+E12000001,North East,region,06/07/2021,2842,645.9,3
+E12000001,North East,region,05/07/2021,2511,593.4,0
+E12000001,North East,region,04/07/2021,2298,574.4,3
+E12000001,North East,region,03/07/2021,2469,531.9,2
+E12000001,North East,region,02/07/2021,2238,492.5,1
+E12000001,North East,region,01/07/2021,2496,452.6,0
+E12000001,North East,region,30/06/2021,2392,400.6,0
+E12000001,North East,region,29/06/2021,1439,352,1
+E12000001,North East,region,28/06/2021,2005,324.8,0
+E12000001,North East,region,27/06/2021,1162,281.5,2
+E12000001,North East,region,26/06/2021,1417,262,1
+E12000001,North East,region,25/06/2021,1172,236.7,0
+E12000001,North East,region,24/06/2021,1108,216.5,1
+E12000001,North East,region,23/06/2021,1095,199.3,1
+E12000001,North East,region,22/06/2021,714,179.5,0
+E12000001,North East,region,21/06/2021,848,172.1,0
+E12000001,North East,region,20/06/2021,641,155.8,0
+E12000001,North East,region,19/06/2021,742,143.1,0
+E12000001,North East,region,18/06/2021,633,132.1,0
+E12000001,North East,region,17/06/2021,647,120.2,0
+E12000001,North East,region,16/06/2021,567,107.9,4
+E12000001,North East,region,15/06/2021,518,98,0
+E12000001,North East,region,14/06/2021,413,87.7,1
+E12000001,North East,region,13/06/2021,301,80.1,0
+E12000001,North East,region,12/06/2021,448,75,1
+E12000001,North East,region,11/06/2021,315,67.2,0
+E12000001,North East,region,10/06/2021,320,61.2,0
+E12000001,North East,region,09/06/2021,302,53.4,0
+E12000001,North East,region,08/06/2021,242,46.7,1
+E12000001,North East,region,07/06/2021,210,40.5,0
+E12000001,North East,region,06/06/2021,166,35.8,1
+E12000001,North East,region,05/06/2021,239,34,1
+E12000001,North East,region,04/06/2021,154,28.6,0
+E12000001,North East,region,03/06/2021,113,26.5,1
+E12000001,North East,region,02/06/2021,122,25,1
+E12000001,North East,region,01/06/2021,78,23.9,0
+E12000001,North East,region,31/05/2021,83,23.4,0
+E12000001,North East,region,30/05/2021,120,22.9,0
+E12000001,North East,region,29/05/2021,94,20.5,0
+E12000001,North East,region,28/05/2021,97,19.6,1
+E12000001,North East,region,27/05/2021,73,18.3,1
+E12000001,North East,region,26/05/2021,92,18.4,0
+E12000001,North East,region,25/05/2021,66,17.8,0
+E12000001,North East,region,24/05/2021,70,15.3,0
+E12000001,North East,region,23/05/2021,56,15.4,0
+E12000001,North East,region,22/05/2021,70,15.3,0
+E12000001,North East,region,21/05/2021,61,15.8,0
+E12000001,North East,region,20/05/2021,77,16.3,0
+E12000001,North East,region,19/05/2021,74,17.4,1
+E12000001,North East,region,18/05/2021,0,17.5,0
+E12000001,North East,region,17/05/2021,72,21.3,0
+E12000001,North East,region,16/05/2021,54,21.5,0
+E12000001,North East,region,15/05/2021,83,22.5,2
+E12000001,North East,region,14/05/2021,74,23.1,1
+E12000001,North East,region,13/05/2021,108,22.4,1
+E12000001,North East,region,12/05/2021,76,21.9,1
+E12000001,North East,region,11/05/2021,101,23,0
+E12000001,North East,region,10/05/2021,77,22.4,0
+E12000001,North East,region,09/05/2021,83,21.9,0
+E12000001,North East,region,08/05/2021,97,20.8,0
+E12000001,North East,region,07/05/2021,55,20.2,1
+E12000001,North East,region,06/05/2021,97,21.5,1
+E12000001,North East,region,05/05/2021,105,21.4,0
+E12000001,North East,region,04/05/2021,84,20.8,0
+E12000001,North East,region,03/05/2021,63,22.5,0
+E12000001,North East,region,02/05/2021,54,23.4,0
+E12000001,North East,region,01/05/2021,80,24,1
 E12000001,North East,region,30/04/2021,92,23.1,0
 E12000001,North East,region,29/04/2021,94,23.3,0
 E12000001,North East,region,28/04/2021,89,23.4,2
@@ -243,7 +333,7 @@ E12000001,North East,region,02/09/2020,95,18.5,0
 E12000001,North East,region,01/09/2020,89,16.7,0
 E12000001,North East,region,31/08/2020,100,14,0
 E12000001,North East,region,30/08/2020,91,12,1
-E12000001,North East,region,29/08/2020,19,9.6,0
+E12000001,North East,region,29/08/2020,19,9.6,
 E12000001,North East,region,28/08/2020,46,10.3,0
 E12000001,North East,region,27/08/2020,54,10,0
 E12000001,North East,region,26/08/2020,47,9.1,0
@@ -372,12 +462,102 @@ E12000001,North East,region,26/04/2020,159,57.5,
 E12000001,North East,region,25/04/2020,226,62.1,
 E12000001,North East,region,24/04/2020,228,59.5,
 E12000001,North East,region,23/04/2020,223,60.8,
-E12000001,North East,region,22/04/2020,320,52.5,
-E12000001,North East,region,21/04/2020,164,40.5,
-E12000001,North East,region,20/04/2020,216,34.3,
-E12000001,North East,region,19/04/2020,280,26.3,
-E12000001,North East,region,18/04/2020,158,15.8,
-E12000001,North East,region,17/04/2020,263,9.9,
+E12000001,North East,region,22/04/2020,320,,
+E12000001,North East,region,21/04/2020,164,,
+E12000001,North East,region,20/04/2020,216,,
+E12000001,North East,region,19/04/2020,280,,
+E12000001,North East,region,18/04/2020,158,,
+E12000001,North East,region,17/04/2020,263,,
+E12000002,North West,region,29/07/2021,3588,324.2,13
+E12000002,North West,region,28/07/2021,2999,351.6,19
+E12000002,North West,region,27/07/2021,2683,383.3,25
+E12000002,North West,region,26/07/2021,3281,415.6,1
+E12000002,North West,region,25/07/2021,3464,441.4,8
+E12000002,North West,region,24/07/2021,3615,489.1,17
+E12000002,North West,region,23/07/2021,4172,541,20
+E12000002,North West,region,22/07/2021,5600,583,13
+E12000002,North West,region,21/07/2021,5322,591.3,14
+E12000002,North West,region,20/07/2021,5058,603.3,19
+E12000002,North West,region,19/07/2021,5176,601.6,7
+E12000002,North West,region,18/07/2021,6962,596,7
+E12000002,North West,region,17/07/2021,7424,558.8,12
+E12000002,North West,region,16/07/2021,7256,522.5,14
+E12000002,North West,region,15/07/2021,6212,512.1,13
+E12000002,North West,region,14/07/2021,6203,498.3,8
+E12000002,North West,region,13/07/2021,4931,481.2,19
+E12000002,North West,region,12/07/2021,4769,468,1
+E12000002,North West,region,11/07/2021,4231,456.8,8
+E12000002,North West,region,10/07/2021,4758,453.5,13
+E12000002,North West,region,09/07/2021,6487,443.1,7
+E12000002,North West,region,08/07/2021,5203,422.9,12
+E12000002,North West,region,07/07/2021,4950,411.5,9
+E12000002,North West,region,06/07/2021,3960,410.2,12
+E12000002,North West,region,05/07/2021,3945,409,1
+E12000002,North West,region,04/07/2021,3989,412,5
+E12000002,North West,region,03/07/2021,3997,395.3,5
+E12000002,North West,region,02/07/2021,5003,391.2,12
+E12000002,North West,region,01/07/2021,4366,369.9,3
+E12000002,North West,region,30/06/2021,4856,355.6,5
+E12000002,North West,region,29/06/2021,3870,338.8,9
+E12000002,North West,region,28/06/2021,4168,324.1,2
+E12000002,North West,region,27/06/2021,2763,300.6,1
+E12000002,North West,region,26/06/2021,3693,291.6,6
+E12000002,North West,region,25/06/2021,3440,275.9,10
+E12000002,North West,region,24/06/2021,3318,266.6,9
+E12000002,North West,region,23/06/2021,3620,260.3,7
+E12000002,North West,region,22/06/2021,2790,240.4,8
+E12000002,North West,region,21/06/2021,2441,229.8,5
+E12000002,North West,region,20/06/2021,2107,227.4,2
+E12000002,North West,region,19/06/2021,2538,227.8,7
+E12000002,North West,region,18/06/2021,2754,223,3
+E12000002,North West,region,17/06/2021,2858,217.1,7
+E12000002,North West,region,16/06/2021,2157,205.1,22
+E12000002,North West,region,15/06/2021,2017,204.4,4
+E12000002,North West,region,14/06/2021,2262,202,0
+E12000002,North West,region,13/06/2021,2134,194,2
+E12000002,North West,region,12/06/2021,2191,186.8,0
+E12000002,North West,region,11/06/2021,2317,180.8,7
+E12000002,North West,region,10/06/2021,1976,173.2,0
+E12000002,North West,region,09/06/2021,2112,168.7,2
+E12000002,North West,region,08/06/2021,1840,155.7,6
+E12000002,North West,region,07/06/2021,1673,141.2,1
+E12000002,North West,region,06/06/2021,1606,132.6,2
+E12000002,North West,region,05/06/2021,1752,123.4,1
+E12000002,North West,region,04/06/2021,1755,110.1,5
+E12000002,North West,region,03/06/2021,1643,103.2,3
+E12000002,North West,region,02/06/2021,1158,94.8,2
+E12000002,North West,region,01/06/2021,780,89.2,2
+E12000002,North West,region,31/05/2021,1038,86.2,0
+E12000002,North West,region,30/05/2021,935,78.8,2
+E12000002,North West,region,29/05/2021,771,72.8,3
+E12000002,North West,region,28/05/2021,1251,72.1,1
+E12000002,North West,region,27/05/2021,1025,62.5,4
+E12000002,North West,region,26/05/2021,745,57.8,2
+E12000002,North West,region,25/05/2021,566,53.9,3
+E12000002,North West,region,24/05/2021,495,46.2,3
+E12000002,North West,region,23/05/2021,494,45.4,0
+E12000002,North West,region,22/05/2021,720,43.8,2
+E12000002,North West,region,21/05/2021,540,38.7,0
+E12000002,North West,region,20/05/2021,686,36.8,4
+E12000002,North West,region,19/05/2021,459,35.3,0
+E12000002,North West,region,18/05/2021,0,34.5,1
+E12000002,North West,region,17/05/2021,432,40,0
+E12000002,North West,region,16/05/2021,381,39.7,0
+E12000002,North West,region,15/05/2021,344,38.5,1
+E12000002,North West,region,14/05/2021,400,38.3,5
+E12000002,North West,region,13/05/2021,578,38,4
+E12000002,North West,region,12/05/2021,400,35.2,3
+E12000002,North West,region,11/05/2021,402,34.1,5
+E12000002,North West,region,10/05/2021,410,32,0
+E12000002,North West,region,09/05/2021,292,29.5,0
+E12000002,North West,region,08/05/2021,329,28.8,1
+E12000002,North West,region,07/05/2021,380,27.8,0
+E12000002,North West,region,06/05/2021,371,26.4,3
+E12000002,North West,region,05/05/2021,320,25.6,0
+E12000002,North West,region,04/05/2021,248,25,0
+E12000002,North West,region,03/05/2021,224,26.3,2
+E12000002,North West,region,02/05/2021,245,27,4
+E12000002,North West,region,01/05/2021,250,26.2,0
 E12000002,North West,region,30/04/2021,278,26,2
 E12000002,North West,region,29/04/2021,314,26,5
 E12000002,North West,region,28/04/2021,279,25.8,7
@@ -622,7 +802,7 @@ E12000002,North West,region,02/09/2020,280,26.7,1
 E12000002,North West,region,01/09/2020,200,25.5,1
 E12000002,North West,region,31/08/2020,266,25.6,1
 E12000002,North West,region,30/08/2020,427,24,3
-E12000002,North West,region,29/08/2020,201,20.9,0
+E12000002,North West,region,29/08/2020,201,20.9,
 E12000002,North West,region,28/08/2020,286,20.6,2
 E12000002,North West,region,27/08/2020,298,20.3,9
 E12000002,North West,region,26/08/2020,191,19.7,7
@@ -751,12 +931,102 @@ E12000002,North West,region,26/04/2020,380,43.8,
 E12000002,North West,region,25/04/2020,457,47.3,
 E12000002,North West,region,24/04/2020,570,48.6,
 E12000002,North West,region,23/04/2020,473,48.9,
-E12000002,North West,region,22/04/2020,421,42.4,
-E12000002,North West,region,21/04/2020,460,36.7,
-E12000002,North West,region,20/04/2020,457,30.4,
-E12000002,North West,region,19/04/2020,634,24.2,
-E12000002,North West,region,18/04/2020,550,15.6,
-E12000002,North West,region,17/04/2020,594,8.1,
+E12000002,North West,region,22/04/2020,421,,
+E12000002,North West,region,21/04/2020,460,,
+E12000002,North West,region,20/04/2020,457,,
+E12000002,North West,region,19/04/2020,634,,
+E12000002,North West,region,18/04/2020,550,,
+E12000002,North West,region,17/04/2020,594,,
+E12000003,Yorkshire and The Humber,region,29/07/2021,3249,376.5,14
+E12000003,Yorkshire and The Humber,region,28/07/2021,2932,394.9,11
+E12000003,Yorkshire and The Humber,region,27/07/2021,2024,428.9,19
+E12000003,Yorkshire and The Humber,region,26/07/2021,2628,465.4,0
+E12000003,Yorkshire and The Humber,region,25/07/2021,2749,494.4,3
+E12000003,Yorkshire and The Humber,region,24/07/2021,3383,534.7,6
+E12000003,Yorkshire and The Humber,region,23/07/2021,3756,590.3,8
+E12000003,Yorkshire and The Humber,region,22/07/2021,4259,617.3,5
+E12000003,Yorkshire and The Humber,region,21/07/2021,4804,636.9,11
+E12000003,Yorkshire and The Humber,region,20/07/2021,4030,634.1,12
+E12000003,Yorkshire and The Humber,region,19/07/2021,4227,631.8,2
+E12000003,Yorkshire and The Humber,region,18/07/2021,4964,621,2
+E12000003,Yorkshire and The Humber,region,17/07/2021,6445,594.7,5
+E12000003,Yorkshire and The Humber,region,16/07/2021,5243,542.2,4
+E12000003,Yorkshire and The Humber,region,15/07/2021,5334,518.2,3
+E12000003,Yorkshire and The Humber,region,14/07/2021,4653,492.3,9
+E12000003,Yorkshire and The Humber,region,13/07/2021,3902,473.8,2
+E12000003,Yorkshire and The Humber,region,12/07/2021,3632,456.9,1
+E12000003,Yorkshire and The Humber,region,11/07/2021,3515,444.8,0
+E12000003,Yorkshire and The Humber,region,10/07/2021,3559,427.4,1
+E12000003,Yorkshire and The Humber,region,09/07/2021,3922,412.4,2
+E12000003,Yorkshire and The Humber,region,08/07/2021,3907,387.4,4
+E12000003,Yorkshire and The Humber,region,07/07/2021,3636,367.4,1
+E12000003,Yorkshire and The Humber,region,06/07/2021,2970,349.4,2
+E12000003,Yorkshire and The Humber,region,05/07/2021,2967,332.1,1
+E12000003,Yorkshire and The Humber,region,04/07/2021,2557,319.8,1
+E12000003,Yorkshire and The Humber,region,03/07/2021,2736,295.6,1
+E12000003,Yorkshire and The Humber,region,02/07/2021,2543,282.2,4
+E12000003,Yorkshire and The Humber,region,01/07/2021,2810,263.7,1
+E12000003,Yorkshire and The Humber,region,30/06/2021,2647,241.1,3
+E12000003,Yorkshire and The Humber,region,29/06/2021,2014,220.7,3
+E12000003,Yorkshire and The Humber,region,28/06/2021,2289,201.6,0
+E12000003,Yorkshire and The Humber,region,27/06/2021,1229,178,2
+E12000003,Yorkshire and The Humber,region,26/06/2021,1996,172.7,2
+E12000003,Yorkshire and The Humber,region,25/06/2021,1524,154.5,0
+E12000003,Yorkshire and The Humber,region,24/06/2021,1571,144.1,1
+E12000003,Yorkshire and The Humber,region,23/06/2021,1521,132.6,1
+E12000003,Yorkshire and The Humber,region,22/06/2021,965,119.6,6
+E12000003,Yorkshire and The Humber,region,21/06/2021,991,114.3,0
+E12000003,Yorkshire and The Humber,region,20/06/2021,937,107.8,0
+E12000003,Yorkshire and The Humber,region,19/06/2021,991,100.8,1
+E12000003,Yorkshire and The Humber,region,18/06/2021,953,95.5,2
+E12000003,Yorkshire and The Humber,region,17/06/2021,941,91.7,1
+E12000003,Yorkshire and The Humber,region,16/06/2021,802,85.6,0
+E12000003,Yorkshire and The Humber,region,15/06/2021,674,83.9,0
+E12000003,Yorkshire and The Humber,region,14/06/2021,635,81.5,0
+E12000003,Yorkshire and The Humber,region,13/06/2021,553,80.1,0
+E12000003,Yorkshire and The Humber,region,12/06/2021,700,79,3
+E12000003,Yorkshire and The Humber,region,11/06/2021,741,75,1
+E12000003,Yorkshire and The Humber,region,10/06/2021,607,70,0
+E12000003,Yorkshire and The Humber,region,09/06/2021,707,66.6,2
+E12000003,Yorkshire and The Humber,region,08/06/2021,541,60.4,0
+E12000003,Yorkshire and The Humber,region,07/06/2021,557,55.8,0
+E12000003,Yorkshire and The Humber,region,06/06/2021,494,50.8,2
+E12000003,Yorkshire and The Humber,region,05/06/2021,482,47.7,0
+E12000003,Yorkshire and The Humber,region,04/06/2021,465,43.8,2
+E12000003,Yorkshire and The Humber,region,03/06/2021,421,41.6,1
+E12000003,Yorkshire and The Humber,region,02/06/2021,363,39.5,4
+E12000003,Yorkshire and The Humber,region,01/06/2021,289,39,0
+E12000003,Yorkshire and The Humber,region,31/05/2021,279,38.6,1
+E12000003,Yorkshire and The Humber,region,30/05/2021,325,38.1,0
+E12000003,Yorkshire and The Humber,region,29/05/2021,270,37.2,1
+E12000003,Yorkshire and The Humber,region,28/05/2021,343,37.2,1
+E12000003,Yorkshire and The Humber,region,27/05/2021,305,37.5,1
+E12000003,Yorkshire and The Humber,region,26/05/2021,335,37.3,1
+E12000003,Yorkshire and The Humber,region,25/05/2021,269,37,4
+E12000003,Yorkshire and The Humber,region,24/05/2021,251,32.1,0
+E12000003,Yorkshire and The Humber,region,23/05/2021,275,31.9,1
+E12000003,Yorkshire and The Humber,region,22/05/2021,271,31.3,0
+E12000003,Yorkshire and The Humber,region,21/05/2021,357,31.3,0
+E12000003,Yorkshire and The Humber,region,20/05/2021,294,30.1,1
+E12000003,Yorkshire and The Humber,region,19/05/2021,321,30.8,2
+E12000003,Yorkshire and The Humber,region,18/05/2021,0,31.2,4
+E12000003,Yorkshire and The Humber,region,17/05/2021,239,36.9,0
+E12000003,Yorkshire and The Humber,region,16/05/2021,243,38.4,0
+E12000003,Yorkshire and The Humber,region,15/05/2021,268,38.4,4
+E12000003,Yorkshire and The Humber,region,14/05/2021,291,39.1,4
+E12000003,Yorkshire and The Humber,region,13/05/2021,333,40.1,2
+E12000003,Yorkshire and The Humber,region,12/05/2021,342,41.5,2
+E12000003,Yorkshire and The Humber,region,11/05/2021,315,41.4,7
+E12000003,Yorkshire and The Humber,region,10/05/2021,319,41,0
+E12000003,Yorkshire and The Humber,region,09/05/2021,244,39.7,0
+E12000003,Yorkshire and The Humber,region,08/05/2021,305,40,2
+E12000003,Yorkshire and The Humber,region,07/05/2021,350,41.5,4
+E12000003,Yorkshire and The Humber,region,06/05/2021,406,42.4,3
+E12000003,Yorkshire and The Humber,region,05/05/2021,337,41.7,4
+E12000003,Yorkshire and The Humber,region,04/05/2021,295,42.2,0
+E12000003,Yorkshire and The Humber,region,03/05/2021,250,43.4,0
+E12000003,Yorkshire and The Humber,region,02/05/2021,259,44,1
+E12000003,Yorkshire and The Humber,region,01/05/2021,384,45.2,2
 E12000003,Yorkshire and The Humber,region,30/04/2021,401,44.8,1
 E12000003,Yorkshire and The Humber,region,29/04/2021,367,44.4,4
 E12000003,Yorkshire and The Humber,region,28/04/2021,369,45.6,3
@@ -1001,7 +1271,7 @@ E12000003,Yorkshire and The Humber,region,02/09/2020,191,20.5,1
 E12000003,Yorkshire and The Humber,region,01/09/2020,117,19.1,0
 E12000003,Yorkshire and The Humber,region,31/08/2020,167,19.4,1
 E12000003,Yorkshire and The Humber,region,30/08/2020,182,17.8,1
-E12000003,Yorkshire and The Humber,region,29/08/2020,147,16.7,0
+E12000003,Yorkshire and The Humber,region,29/08/2020,147,16.7,
 E12000003,Yorkshire and The Humber,region,28/08/2020,129,16.7,1
 E12000003,Yorkshire and The Humber,region,27/08/2020,197,16.2,0
 E12000003,Yorkshire and The Humber,region,26/08/2020,113,15.2,2
@@ -1130,12 +1400,102 @@ E12000003,Yorkshire and The Humber,region,26/04/2020,232,36.5,
 E12000003,Yorkshire and The Humber,region,25/04/2020,333,37,
 E12000003,Yorkshire and The Humber,region,24/04/2020,398,37.7,
 E12000003,Yorkshire and The Humber,region,23/04/2020,246,36.1,
-E12000003,Yorkshire and The Humber,region,22/04/2020,400,31.7,
-E12000003,Yorkshire and The Humber,region,21/04/2020,251,24.4,
-E12000003,Yorkshire and The Humber,region,20/04/2020,150,19.8,
-E12000003,Yorkshire and The Humber,region,19/04/2020,257,17.1,
-E12000003,Yorkshire and The Humber,region,18/04/2020,370,12.4,
-E12000003,Yorkshire and The Humber,region,17/04/2020,315,5.7,
+E12000003,Yorkshire and The Humber,region,22/04/2020,400,,
+E12000003,Yorkshire and The Humber,region,21/04/2020,251,,
+E12000003,Yorkshire and The Humber,region,20/04/2020,150,,
+E12000003,Yorkshire and The Humber,region,19/04/2020,257,,
+E12000003,Yorkshire and The Humber,region,18/04/2020,370,,
+E12000003,Yorkshire and The Humber,region,17/04/2020,315,,
+E12000004,East Midlands,region,29/07/2021,2408,321.1,6
+E12000004,East Midlands,region,28/07/2021,2280,328.3,4
+E12000004,East Midlands,region,27/07/2021,1707,349.7,5
+E12000004,East Midlands,region,26/07/2021,1823,381.5,1
+E12000004,East Midlands,region,25/07/2021,2140,404.8,2
+E12000004,East Midlands,region,24/07/2021,2556,437.3,6
+E12000004,East Midlands,region,23/07/2021,2613,467.6,3
+E12000004,East Midlands,region,22/07/2021,2755,494.4,5
+E12000004,East Midlands,region,21/07/2021,3315,503.7,2
+E12000004,East Midlands,region,20/07/2021,3247,499.8,5
+E12000004,East Midlands,region,19/07/2021,2950,484.1,2
+E12000004,East Midlands,region,18/07/2021,3712,469.2,1
+E12000004,East Midlands,region,17/07/2021,4019,439.7,1
+E12000004,East Midlands,region,16/07/2021,3910,406.6,2
+E12000004,East Midlands,region,15/07/2021,3204,376.3,3
+E12000004,East Midlands,region,14/07/2021,3126,353.8,4
+E12000004,East Midlands,region,13/07/2021,2492,330.6,1
+E12000004,East Midlands,region,12/07/2021,2227,317.9,0
+E12000004,East Midlands,region,11/07/2021,2286,308.1,2
+E12000004,East Midlands,region,10/07/2021,2419,288.5,2
+E12000004,East Midlands,region,09/07/2021,2444,268.9,1
+E12000004,East Midlands,region,08/07/2021,2115,247.7,2
+E12000004,East Midlands,region,07/07/2021,2006,236.3,5
+E12000004,East Midlands,region,06/07/2021,1875,223.2,3
+E12000004,East Midlands,region,05/07/2021,1753,207.7,0
+E12000004,East Midlands,region,04/07/2021,1338,197.5,1
+E12000004,East Midlands,region,03/07/2021,1471,185.2,1
+E12000004,East Midlands,region,02/07/2021,1423,173.2,2
+E12000004,East Midlands,region,01/07/2021,1561,159.3,0
+E12000004,East Midlands,region,30/06/2021,1375,143.2,0
+E12000004,East Midlands,region,29/06/2021,1122,130,1
+E12000004,East Midlands,region,28/06/2021,1261,119.2,0
+E12000004,East Midlands,region,27/06/2021,744,103.6,0
+E12000004,East Midlands,region,26/06/2021,888,97.2,2
+E12000004,East Midlands,region,25/06/2021,754,90.3,0
+E12000004,East Midlands,region,24/06/2021,779,86.3,0
+E12000004,East Midlands,region,23/06/2021,739,79.6,0
+E12000004,East Midlands,region,22/06/2021,600,73.4,1
+E12000004,East Midlands,region,21/06/2021,508,68.5,0
+E12000004,East Midlands,region,20/06/2021,434,66.3,2
+E12000004,East Midlands,region,19/06/2021,551,63.9,0
+E12000004,East Midlands,region,18/06/2021,563,59.8,1
+E12000004,East Midlands,region,17/06/2021,454,56.1,2
+E12000004,East Midlands,region,16/06/2021,440,54,22
+E12000004,East Midlands,region,15/06/2021,365,51.9,0
+E12000004,East Midlands,region,14/06/2021,400,50.8,0
+E12000004,East Midlands,region,13/06/2021,318,48.7,2
+E12000004,East Midlands,region,12/06/2021,351,46.7,1
+E12000004,East Midlands,region,11/06/2021,384,44.9,3
+E12000004,East Midlands,region,10/06/2021,352,42.6,0
+E12000004,East Midlands,region,09/06/2021,342,40.4,1
+E12000004,East Midlands,region,08/06/2021,311,37.4,1
+E12000004,East Midlands,region,07/06/2021,298,33.8,0
+E12000004,East Midlands,region,06/06/2021,219,31.1,1
+E12000004,East Midlands,region,05/06/2021,266,29.6,2
+E12000004,East Midlands,region,04/06/2021,274,27.7,0
+E12000004,East Midlands,region,03/06/2021,244,26.2,1
+E12000004,East Midlands,region,02/06/2021,195,24.4,0
+E12000004,East Midlands,region,01/06/2021,140,23.7,0
+E12000004,East Midlands,region,31/05/2021,168,24.1,1
+E12000004,East Midlands,region,30/05/2021,143,24.1,0
+E12000004,East Midlands,region,29/05/2021,177,23.5,2
+E12000004,East Midlands,region,28/05/2021,198,23.2,0
+E12000004,East Midlands,region,27/05/2021,159,22.5,0
+E12000004,East Midlands,region,26/05/2021,163,22.5,1
+E12000004,East Midlands,region,25/05/2021,156,20.6,3
+E12000004,East Midlands,region,24/05/2021,171,17.4,0
+E12000004,East Midlands,region,23/05/2021,111,17,1
+E12000004,East Midlands,region,22/05/2021,164,17.8,0
+E12000004,East Midlands,region,21/05/2021,166,17.7,3
+E12000004,East Midlands,region,20/05/2021,157,17.1,1
+E12000004,East Midlands,region,19/05/2021,73,17.7,0
+E12000004,East Midlands,region,18/05/2021,0,19.8,2
+E12000004,East Midlands,region,17/05/2021,153,24.7,0
+E12000004,East Midlands,region,16/05/2021,146,25.5,1
+E12000004,East Midlands,region,15/05/2021,159,25.5,0
+E12000004,East Midlands,region,14/05/2021,139,26.4,1
+E12000004,East Midlands,region,13/05/2021,187,29.1,1
+E12000004,East Midlands,region,12/05/2021,174,30.5,2
+E12000004,East Midlands,region,11/05/2021,236,30.3,0
+E12000004,East Midlands,region,10/05/2021,190,28.9,0
+E12000004,East Midlands,region,09/05/2021,150,28.7,0
+E12000004,East Midlands,region,08/05/2021,199,28.2,0
+E12000004,East Midlands,region,07/05/2021,270,27,1
+E12000004,East Midlands,region,06/05/2021,257,25.2,0
+E12000004,East Midlands,region,05/05/2021,162,23.9,7
+E12000004,East Midlands,region,04/05/2021,169,24,2
+E12000004,East Midlands,region,03/05/2021,181,24.4,0
+E12000004,East Midlands,region,02/05/2021,124,24.1,0
+E12000004,East Midlands,region,01/05/2021,145,23.5,0
 E12000004,East Midlands,region,30/04/2021,179,24.3,3
 E12000004,East Midlands,region,29/04/2021,196,24.3,3
 E12000004,East Midlands,region,28/04/2021,166,25.5,5
@@ -1380,7 +1740,7 @@ E12000004,East Midlands,region,02/09/2020,84,11.5,0
 E12000004,East Midlands,region,01/09/2020,61,11,0
 E12000004,East Midlands,region,31/08/2020,66,11.3,0
 E12000004,East Midlands,region,30/08/2020,103,11.2,2
-E12000004,East Midlands,region,29/08/2020,57,11,0
+E12000004,East Midlands,region,29/08/2020,57,11,
 E12000004,East Midlands,region,28/08/2020,70,12.6,1
 E12000004,East Midlands,region,27/08/2020,114,12.4,0
 E12000004,East Midlands,region,26/08/2020,61,12.4,1
@@ -1509,12 +1869,102 @@ E12000004,East Midlands,region,26/04/2020,97,21.4,
 E12000004,East Midlands,region,25/04/2020,149,24.2,
 E12000004,East Midlands,region,24/04/2020,139,24,
 E12000004,East Midlands,region,23/04/2020,172,24.6,
-E12000004,East Midlands,region,22/04/2020,259,21.1,
-E12000004,East Midlands,region,21/04/2020,120,15.7,
-E12000004,East Midlands,region,20/04/2020,97,13.2,
-E12000004,East Midlands,region,19/04/2020,236,11.2,
-E12000004,East Midlands,region,18/04/2020,138,6.3,
-E12000004,East Midlands,region,17/04/2020,169,3.5,
+E12000004,East Midlands,region,22/04/2020,259,,
+E12000004,East Midlands,region,21/04/2020,120,,
+E12000004,East Midlands,region,20/04/2020,97,,
+E12000004,East Midlands,region,19/04/2020,236,,
+E12000004,East Midlands,region,18/04/2020,138,,
+E12000004,East Midlands,region,17/04/2020,169,,
+E12000005,West Midlands,region,29/07/2021,2568,319.5,7
+E12000005,West Midlands,region,28/07/2021,2468,336,4
+E12000005,West Midlands,region,27/07/2021,2047,364.8,15
+E12000005,West Midlands,region,26/07/2021,2122,394.5,3
+E12000005,West Midlands,region,25/07/2021,2640,424.8,4
+E12000005,West Midlands,region,24/07/2021,3424,458,5
+E12000005,West Midlands,region,23/07/2021,3693,492.7,4
+E12000005,West Midlands,region,22/07/2021,3542,524.2,3
+E12000005,West Midlands,region,21/07/2021,4182,552.4,11
+E12000005,West Midlands,region,20/07/2021,3809,545.8,13
+E12000005,West Midlands,region,19/07/2021,3918,542.9,0
+E12000005,West Midlands,region,18/07/2021,4612,527.8,4
+E12000005,West Midlands,region,17/07/2021,5482,498.4,6
+E12000005,West Midlands,region,16/07/2021,5559,460.2,4
+E12000005,West Midlands,region,15/07/2021,5220,423,2
+E12000005,West Midlands,region,14/07/2021,3787,387,3
+E12000005,West Midlands,region,13/07/2021,3637,369.2,6
+E12000005,West Midlands,region,12/07/2021,3020,346,1
+E12000005,West Midlands,region,11/07/2021,2870,335.3,7
+E12000005,West Midlands,region,10/07/2021,3216,323.8,1
+E12000005,West Midlands,region,09/07/2021,3351,306.7,4
+E12000005,West Midlands,region,08/07/2021,3082,287.7,2
+E12000005,West Midlands,region,07/07/2021,2732,276.8,4
+E12000005,West Midlands,region,06/07/2021,2261,264.1,2
+E12000005,West Midlands,region,05/07/2021,2383,255.3,3
+E12000005,West Midlands,region,04/07/2021,2188,242.8,0
+E12000005,West Midlands,region,03/07/2021,2202,225.9,0
+E12000005,West Midlands,region,02/07/2021,2222,213.7,4
+E12000005,West Midlands,region,01/07/2021,2435,197.5,2
+E12000005,West Midlands,region,30/06/2021,1979,178.4,1
+E12000005,West Midlands,region,29/06/2021,1743,163.7,2
+E12000005,West Midlands,region,28/06/2021,1637,148.2,0
+E12000005,West Midlands,region,27/06/2021,1189,133,1
+E12000005,West Midlands,region,26/06/2021,1478,123.7,3
+E12000005,West Midlands,region,25/06/2021,1258,109.9,1
+E12000005,West Midlands,region,24/06/2021,1301,100.1,4
+E12000005,West Midlands,region,23/06/2021,1108,91.5,3
+E12000005,West Midlands,region,22/06/2021,821,81.4,2
+E12000005,West Midlands,region,21/06/2021,737,75.7,0
+E12000005,West Midlands,region,20/06/2021,639,72.3,0
+E12000005,West Midlands,region,19/06/2021,659,69.3,1
+E12000005,West Midlands,region,18/06/2021,677,65.4,1
+E12000005,West Midlands,region,17/06/2021,786,63,0
+E12000005,West Midlands,region,16/06/2021,514,57.8,0
+E12000005,West Midlands,region,15/06/2021,478,56.8,0
+E12000005,West Midlands,region,14/06/2021,536,55.4,1
+E12000005,West Midlands,region,13/06/2021,464,52.5,1
+E12000005,West Midlands,region,12/06/2021,423,50.2,0
+E12000005,West Midlands,region,11/06/2021,540,49.1,2
+E12000005,West Midlands,region,10/06/2021,473,46.2,0
+E12000005,West Midlands,region,09/06/2021,454,43.4,0
+E12000005,West Midlands,region,08/06/2021,400,39.9,1
+E12000005,West Midlands,region,07/06/2021,361,36.4,1
+E12000005,West Midlands,region,06/06/2021,329,34,0
+E12000005,West Midlands,region,05/06/2021,354,31.5,1
+E12000005,West Midlands,region,04/06/2021,370,28.5,3
+E12000005,West Midlands,region,03/06/2021,309,26.1,1
+E12000005,West Midlands,region,02/06/2021,242,24.2,4
+E12000005,West Midlands,region,01/06/2021,195,23.4,0
+E12000005,West Midlands,region,31/05/2021,217,22.8,1
+E12000005,West Midlands,region,30/05/2021,182,21.1,2
+E12000005,West Midlands,region,29/05/2021,178,19.5,3
+E12000005,West Midlands,region,28/05/2021,226,18.9,0
+E12000005,West Midlands,region,27/05/2021,196,17.5,2
+E12000005,West Midlands,region,26/05/2021,197,17.4,3
+E12000005,West Midlands,region,25/05/2021,155,15.7,1
+E12000005,West Midlands,region,24/05/2021,116,13.1,1
+E12000005,West Midlands,region,23/05/2021,92,13.7,0
+E12000005,West Midlands,region,22/05/2021,137,13.8,3
+E12000005,West Midlands,region,21/05/2021,143,13.5,0
+E12000005,West Midlands,region,20/05/2021,193,13.5,0
+E12000005,West Midlands,region,19/05/2021,97,13.1,1
+E12000005,West Midlands,region,18/05/2021,0,14,2
+E12000005,West Midlands,region,17/05/2021,150,16.8,0
+E12000005,West Midlands,region,16/05/2021,96,17,1
+E12000005,West Midlands,region,15/05/2021,122,17.3,1
+E12000005,West Midlands,region,14/05/2021,146,17.3,1
+E12000005,West Midlands,region,13/05/2021,164,17.9,2
+E12000005,West Midlands,region,12/05/2021,153,18.2,1
+E12000005,West Midlands,region,11/05/2021,164,18.9,0
+E12000005,West Midlands,region,10/05/2021,166,18.7,0
+E12000005,West Midlands,region,09/05/2021,109,18.2,2
+E12000005,West Midlands,region,08/05/2021,125,18.6,1
+E12000005,West Midlands,region,07/05/2021,179,18.9,1
+E12000005,West Midlands,region,06/05/2021,186,18.8,5
+E12000005,West Midlands,region,05/05/2021,194,19.4,1
+E12000005,West Midlands,region,04/05/2021,152,19.3,0
+E12000005,West Midlands,region,03/05/2021,137,20.4,2
+E12000005,West Midlands,region,02/05/2021,130,20.4,2
+E12000005,West Midlands,region,01/05/2021,143,20.4,1
 E12000005,West Midlands,region,30/04/2021,172,21.1,1
 E12000005,West Midlands,region,29/04/2021,225,21.7,0
 E12000005,West Midlands,region,28/04/2021,184,21.9,3
@@ -1759,7 +2209,7 @@ E12000005,West Midlands,region,02/09/2020,145,16.2,2
 E12000005,West Midlands,region,01/09/2020,101,15.6,0
 E12000005,West Midlands,region,31/08/2020,115,15.8,0
 E12000005,West Midlands,region,30/08/2020,157,15.1,2
-E12000005,West Midlands,region,29/08/2020,115,14.3,0
+E12000005,West Midlands,region,29/08/2020,115,14.3,
 E12000005,West Midlands,region,28/08/2020,125,14.2,2
 E12000005,West Midlands,region,27/08/2020,205,13.9,5
 E12000005,West Midlands,region,26/08/2020,108,12.7,0
@@ -1888,12 +2338,102 @@ E12000005,West Midlands,region,26/04/2020,296,39.8,
 E12000005,West Midlands,region,25/04/2020,320,41.2,
 E12000005,West Midlands,region,24/04/2020,311,41.4,
 E12000005,West Midlands,region,23/04/2020,398,42.4,
-E12000005,West Midlands,region,22/04/2020,346,35.7,
-E12000005,West Midlands,region,21/04/2020,330,29.9,
-E12000005,West Midlands,region,20/04/2020,360,24.3,
-E12000005,West Midlands,region,19/04/2020,382,18.2,
-E12000005,West Midlands,region,18/04/2020,327,11.8,
-E12000005,West Midlands,region,17/04/2020,373,6.3,
+E12000005,West Midlands,region,22/04/2020,346,,
+E12000005,West Midlands,region,21/04/2020,330,,
+E12000005,West Midlands,region,20/04/2020,360,,
+E12000005,West Midlands,region,19/04/2020,382,,
+E12000005,West Midlands,region,18/04/2020,327,,
+E12000005,West Midlands,region,17/04/2020,373,,
+E12000006,East of England,region,29/07/2021,2637,276.9,2
+E12000006,East of England,region,28/07/2021,2276,285.7,9
+E12000006,East of England,region,27/07/2021,2004,309,7
+E12000006,East of England,region,26/07/2021,2078,369.7,2
+E12000006,East of England,region,25/07/2021,2378,372.4,0
+E12000006,East of England,region,24/07/2021,2816,395.7,4
+E12000006,East of England,region,23/07/2021,3081,422.8,0
+E12000006,East of England,region,22/07/2021,3186,440.5,7
+E12000006,East of England,region,21/07/2021,3729,452.3,5
+E12000006,East of England,region,20/07/2021,5784,443.5,3
+E12000006,East of England,region,19/07/2021,2249,396.2,0
+E12000006,East of England,region,18/07/2021,3829,395.6,4
+E12000006,East of England,region,17/07/2021,4508,367.8,0
+E12000006,East of England,region,16/07/2021,4186,333.8,1
+E12000006,East of England,region,15/07/2021,3921,306.8,1
+E12000006,East of England,region,14/07/2021,3182,274.7,0
+E12000006,East of England,region,13/07/2021,2833,258.2,2
+E12000006,East of England,region,12/07/2021,2211,249.4,2
+E12000006,East of England,region,11/07/2021,2097,241.3,0
+E12000006,East of England,region,10/07/2021,2386,230.9,4
+E12000006,East of England,region,09/07/2021,2500,213.9,3
+E12000006,East of England,region,08/07/2021,1919,195.6,1
+E12000006,East of England,region,07/07/2021,2155,188.9,2
+E12000006,East of England,region,06/07/2021,2285,170.7,1
+E12000006,East of England,region,05/07/2021,1703,151,0
+E12000006,East of England,region,04/07/2021,1451,142.1,0
+E12000006,East of England,region,03/07/2021,1326,129.9,2
+E12000006,East of England,region,02/07/2021,1359,120.6,1
+E12000006,East of England,region,01/07/2021,1502,110.7,1
+E12000006,East of England,region,30/06/2021,1022,98.3,0
+E12000006,East of England,region,29/06/2021,1051,92.5,2
+E12000006,East of England,region,28/06/2021,1150,82.8,0
+E12000006,East of England,region,27/06/2021,692,70.9,0
+E12000006,East of England,region,26/06/2021,742,66.6,2
+E12000006,East of England,region,25/06/2021,744,61.8,1
+E12000006,East of England,region,24/06/2021,730,56.7,2
+E12000006,East of England,region,23/06/2021,661,52.1,0
+E12000006,East of England,region,22/06/2021,442,46.9,0
+E12000006,East of England,region,21/06/2021,411,46,0
+E12000006,East of England,region,20/06/2021,421,44.9,2
+E12000006,East of England,region,19/06/2021,443,42.3,0
+E12000006,East of England,region,18/06/2021,429,40,0
+E12000006,East of England,region,17/06/2021,439,38.2,2
+E12000006,East of England,region,16/06/2021,340,38,0
+E12000006,East of England,region,15/06/2021,385,36.2,1
+E12000006,East of England,region,14/06/2021,344,35,0
+E12000006,East of England,region,13/06/2021,256,34.6,0
+E12000006,East of England,region,12/06/2021,299,33.9,1
+E12000006,East of England,region,11/06/2021,317,33,2
+E12000006,East of England,region,10/06/2021,427,33.4,1
+E12000006,East of England,region,09/06/2021,227,29.9,0
+E12000006,East of England,region,08/06/2021,313,29.2,1
+E12000006,East of England,region,07/06/2021,321,26.7,0
+E12000006,East of England,region,06/06/2021,211,24.6,1
+E12000006,East of England,region,05/06/2021,244,23.1,2
+E12000006,East of England,region,04/06/2021,340,22.2,1
+E12000006,East of England,region,03/06/2021,210,20.5,1
+E12000006,East of England,region,02/06/2021,181,20.7,3
+E12000006,East of England,region,01/06/2021,160,20.4,0
+E12000006,East of England,region,31/05/2021,188,20.4,0
+E12000006,East of England,region,30/05/2021,116,20.3,3
+E12000006,East of England,region,29/05/2021,187,20.6,0
+E12000006,East of England,region,28/05/2021,236,20,0
+E12000006,East of England,region,27/05/2021,224,19.4,0
+E12000006,East of England,region,26/05/2021,164,18.7,2
+E12000006,East of England,region,25/05/2021,158,17.9,0
+E12000006,East of England,region,24/05/2021,180,15.4,2
+E12000006,East of England,region,23/05/2021,134,14.5,0
+E12000006,East of England,region,22/05/2021,150,14.4,0
+E12000006,East of England,region,21/05/2021,198,14.6,0
+E12000006,East of England,region,20/05/2021,184,14.4,1
+E12000006,East of England,region,19/05/2021,114,14.8,2
+E12000006,East of England,region,18/05/2021,0,15.5,0
+E12000006,East of England,region,17/05/2021,122,19.3,0
+E12000006,East of England,region,16/05/2021,132,20.5,3
+E12000006,East of England,region,15/05/2021,161,20.1,0
+E12000006,East of England,region,14/05/2021,182,19.8,2
+E12000006,East of England,region,13/05/2021,215,20.3,0
+E12000006,East of England,region,12/05/2021,157,20.5,3
+E12000006,East of England,region,11/05/2021,233,20.5,0
+E12000006,East of England,region,10/05/2021,199,19.3,1
+E12000006,East of England,region,09/05/2021,104,18.6,0
+E12000006,East of England,region,08/05/2021,142,19.1,3
+E12000006,East of England,region,07/05/2021,219,18.9,3
+E12000006,East of England,region,06/05/2021,224,18.2,1
+E12000006,East of England,region,05/05/2021,157,17.5,2
+E12000006,East of England,region,04/05/2021,158,17.2,0
+E12000006,East of England,region,03/05/2021,154,18.9,0
+E12000006,East of England,region,02/05/2021,134,20,2
+E12000006,East of England,region,01/05/2021,132,20,2
 E12000006,East of England,region,30/04/2021,174,20.5,3
 E12000006,East of England,region,29/04/2021,181,21.6,0
 E12000006,East of England,region,28/04/2021,138,22.1,7
@@ -2138,7 +2678,7 @@ E12000006,East of England,region,02/09/2020,81,10.8,0
 E12000006,East of England,region,01/09/2020,108,10.6,0
 E12000006,East of England,region,31/08/2020,91,10.1,0
 E12000006,East of England,region,30/08/2020,115,9.6,3
-E12000006,East of England,region,29/08/2020,62,8.7,0
+E12000006,East of England,region,29/08/2020,62,8.7,
 E12000006,East of England,region,28/08/2020,118,8.9,0
 E12000006,East of England,region,27/08/2020,97,8,3
 E12000006,East of England,region,26/08/2020,69,7.2,0
@@ -2267,12 +2807,102 @@ E12000006,East of England,region,26/04/2020,150,29.7,
 E12000006,East of England,region,25/04/2020,297,31.6,
 E12000006,East of England,region,24/04/2020,224,32.4,
 E12000006,East of England,region,23/04/2020,436,34.6,
-E12000006,East of England,region,22/04/2020,251,27.6,
-E12000006,East of England,region,21/04/2020,235,23.5,
-E12000006,East of England,region,20/04/2020,256,19.8,
-E12000006,East of England,region,19/04/2020,273,15.7,
-E12000006,East of England,region,18/04/2020,344,11.3,
-E12000006,East of England,region,17/04/2020,360,5.8,
+E12000006,East of England,region,22/04/2020,251,,
+E12000006,East of England,region,21/04/2020,235,,
+E12000006,East of England,region,20/04/2020,256,,
+E12000006,East of England,region,19/04/2020,273,,
+E12000006,East of England,region,18/04/2020,344,,
+E12000006,East of England,region,17/04/2020,360,,
+E12000007,London,region,29/07/2021,4333,308.3,9
+E12000007,London,region,28/07/2021,3340,309.7,6
+E12000007,London,region,27/07/2021,3227,336.7,11
+E12000007,London,region,26/07/2021,3056,379.8,2
+E12000007,London,region,25/07/2021,3926,389.7,2
+E12000007,London,region,24/07/2021,4557,406.7,6
+E12000007,London,region,23/07/2021,5187,429.4,5
+E12000007,London,region,22/07/2021,4463,441.8,13
+E12000007,London,region,21/07/2021,5763,456,2
+E12000007,London,region,20/07/2021,7086,444.8,7
+E12000007,London,region,19/07/2021,3940,411.7,1
+E12000007,London,region,18/07/2021,5451,414.6,1
+E12000007,London,region,17/07/2021,6592,394.8,2
+E12000007,London,region,16/07/2021,6296,367.3,3
+E12000007,London,region,15/07/2021,5743,331,5
+E12000007,London,region,14/07/2021,4751,303,3
+E12000007,London,region,13/07/2021,4126,287,3
+E12000007,London,region,12/07/2021,4201,281.5,0
+E12000007,London,region,11/07/2021,3669,271.9,3
+E12000007,London,region,10/07/2021,4131,255.7,3
+E12000007,London,region,09/07/2021,3046,237.9,2
+E12000007,London,region,08/07/2021,3234,233.5,1
+E12000007,London,region,07/07/2021,3314,227.6,2
+E12000007,London,region,06/07/2021,3633,219.6,2
+E12000007,London,region,05/07/2021,3343,202.1,2
+E12000007,London,region,04/07/2021,2218,190.6,3
+E12000007,London,region,03/07/2021,2531,182.5,2
+E12000007,London,region,02/07/2021,2651,176.5,1
+E12000007,London,region,01/07/2021,2705,165.8,5
+E12000007,London,region,30/06/2021,2598,155,2
+E12000007,London,region,29/06/2021,2069,143.9,1
+E12000007,London,region,28/06/2021,2306,132.7,3
+E12000007,London,region,27/06/2021,1493,118.4,2
+E12000007,London,region,26/06/2021,1993,111.7,0
+E12000007,London,region,25/06/2021,1699,102.5,3
+E12000007,London,region,24/06/2021,1731,96.9,0
+E12000007,London,region,23/06/2021,1609,91.3,3
+E12000007,London,region,22/06/2021,1066,86.4,3
+E12000007,London,region,21/06/2021,1023,83.5,2
+E12000007,London,region,20/06/2021,886,80.8,1
+E12000007,London,region,19/06/2021,1172,81.3,1
+E12000007,London,region,18/06/2021,1200,79,4
+E12000007,London,region,17/06/2021,1225,76.2,0
+E12000007,London,region,16/06/2021,1168,74.3,71
+E12000007,London,region,15/06/2021,813,72.4,3
+E12000007,London,region,14/06/2021,778,71.9,3
+E12000007,London,region,13/06/2021,932,69.9,1
+E12000007,London,region,12/06/2021,962,66.6,0
+E12000007,London,region,11/06/2021,948,63.7,3
+E12000007,London,region,10/06/2021,1058,62.3,3
+E12000007,London,region,09/06/2021,994,58,3
+E12000007,London,region,08/06/2021,773,53.3,2
+E12000007,London,region,07/06/2021,601,48.9,0
+E12000007,London,region,06/06/2021,635,46.5,0
+E12000007,London,region,05/06/2021,702,43.3,2
+E12000007,London,region,04/06/2021,820,40.9,0
+E12000007,London,region,03/06/2021,669,37.3,4
+E12000007,London,region,02/06/2021,573,34.3,0
+E12000007,London,region,01/06/2021,384,31.5,0
+E12000007,London,region,31/05/2021,381,30.5,0
+E12000007,London,region,30/05/2021,355,29.7,0
+E12000007,London,region,29/05/2021,485,28.4,3
+E12000007,London,region,28/05/2021,495,26.4,2
+E12000007,London,region,27/05/2021,403,24.9,1
+E12000007,London,region,26/05/2021,323,23.8,1
+E12000007,London,region,25/05/2021,295,23.1,4
+E12000007,London,region,24/05/2021,310,19.8,0
+E12000007,London,region,23/05/2021,233,18.7,0
+E12000007,London,region,22/05/2021,309,18.5,3
+E12000007,London,region,21/05/2021,355,17.9,2
+E12000007,London,region,20/05/2021,306,17.1,0
+E12000007,London,region,19/05/2021,262,17.1,3
+E12000007,London,region,18/05/2021,0,17.2,0
+E12000007,London,region,17/05/2021,212,21.2,3
+E12000007,London,region,16/05/2021,217,21.8,0
+E12000007,London,region,15/05/2021,252,22.1,2
+E12000007,London,region,14/05/2021,287,22.1,2
+E12000007,London,region,13/05/2021,299,22.6,0
+E12000007,London,region,12/05/2021,277,22.1,0
+E12000007,London,region,11/05/2021,352,22.1,2
+E12000007,London,region,10/05/2021,273,20.6,0
+E12000007,London,region,09/05/2021,238,19.7,2
+E12000007,London,region,08/05/2021,253,19.4,0
+E12000007,London,region,07/05/2021,333,18.8,6
+E12000007,London,region,06/05/2021,252,18.6,1
+E12000007,London,region,05/05/2021,278,19.2,4
+E12000007,London,region,04/05/2021,216,19,0
+E12000007,London,region,03/05/2021,193,21,3
+E12000007,London,region,02/05/2021,216,21.8,0
+E12000007,London,region,01/05/2021,201,21.5,0
 E12000007,London,region,30/04/2021,310,22,3
 E12000007,London,region,29/04/2021,307,23,4
 E12000007,London,region,28/04/2021,257,23.7,0
@@ -2517,7 +3147,7 @@ E12000007,London,region,02/09/2020,190,14,0
 E12000007,London,region,01/09/2020,188,13.6,0
 E12000007,London,region,31/08/2020,160,13.8,0
 E12000007,London,region,30/08/2020,197,13.5,0
-E12000007,London,region,29/08/2020,143,13,0
+E12000007,London,region,29/08/2020,143,13,
 E12000007,London,region,28/08/2020,166,13.5,0
 E12000007,London,region,27/08/2020,210,12.8,1
 E12000007,London,region,26/08/2020,155,12.3,1
@@ -2646,12 +3276,102 @@ E12000007,London,region,26/04/2020,267,25.1,
 E12000007,London,region,25/04/2020,278,27.2,
 E12000007,London,region,24/04/2020,296,31.8,
 E12000007,London,region,23/04/2020,415,36.3,
-E12000007,London,region,22/04/2020,280,31.7,
-E12000007,London,region,21/04/2020,418,28.6,
-E12000007,London,region,20/04/2020,297,23.9,
-E12000007,London,region,19/04/2020,453,20.6,
-E12000007,London,region,18/04/2020,689,15.5,
-E12000007,London,region,17/04/2020,704,7.9,
+E12000007,London,region,22/04/2020,280,,
+E12000007,London,region,21/04/2020,418,,
+E12000007,London,region,20/04/2020,297,,
+E12000007,London,region,19/04/2020,453,,
+E12000007,London,region,18/04/2020,689,,
+E12000007,London,region,17/04/2020,704,,
+E12000008,South East,region,29/07/2021,3715,261,5
+E12000008,South East,region,28/07/2021,3357,275.3,7
+E12000008,South East,region,27/07/2021,2666,295.4,9
+E12000008,South East,region,26/07/2021,2850,335.7,2
+E12000008,South East,region,25/07/2021,3384,354.2,0
+E12000008,South East,region,24/07/2021,3451,378.9,6
+E12000008,South East,region,23/07/2021,4533,410.5,10
+E12000008,South East,region,22/07/2021,5036,428.6,2
+E12000008,South East,region,21/07/2021,5194,437.9,7
+E12000008,South East,region,20/07/2021,6372,432,6
+E12000008,South East,region,19/07/2021,4545,407.5,0
+E12000008,South East,region,18/07/2021,5657,401.5,1
+E12000008,South East,region,17/07/2021,6346,376.7,3
+E12000008,South East,region,16/07/2021,6194,344.2,3
+E12000008,South East,region,15/07/2021,5890,310.3,3
+E12000008,South East,region,14/07/2021,4650,276.7,3
+E12000008,South East,region,13/07/2021,4127,259.5,4
+E12000008,South East,region,12/07/2021,3994,248.4,1
+E12000008,South East,region,11/07/2021,3380,233.5,0
+E12000008,South East,region,10/07/2021,3360,223.2,3
+E12000008,South East,region,09/07/2021,3084,212.3,0
+E12000008,South East,region,08/07/2021,2806,205.3,4
+E12000008,South East,region,07/07/2021,3075,204.5,3
+E12000008,South East,region,06/07/2021,3102,195.7,1
+E12000008,South East,region,05/07/2021,2632,182.7,0
+E12000008,South East,region,04/07/2021,2432,176.6,3
+E12000008,South East,region,03/07/2021,2358,163.4,0
+E12000008,South East,region,02/07/2021,2445,153.9,1
+E12000008,South East,region,01/07/2021,2725,140.7,0
+E12000008,South East,region,30/06/2021,2270,124.4,3
+E12000008,South East,region,29/06/2021,1911,111.9,0
+E12000008,South East,region,28/06/2021,2068,100,1
+E12000008,South East,region,27/06/2021,1219,86.3,0
+E12000008,South East,region,26/06/2021,1487,81,2
+E12000008,South East,region,25/06/2021,1237,73.6,1
+E12000008,South East,region,24/06/2021,1231,69.7,0
+E12000008,South East,region,23/06/2021,1118,66,0
+E12000008,South East,region,22/06/2021,817,62.3,1
+E12000008,South East,region,21/06/2021,818,59.7,1
+E12000008,South East,region,20/06/2021,729,57.4,0
+E12000008,South East,region,19/06/2021,802,55.7,1
+E12000008,South East,region,18/06/2021,882,53.4,1
+E12000008,South East,region,17/06/2021,892,50.1,0
+E12000008,South East,region,16/06/2021,776,47.5,0
+E12000008,South East,region,15/06/2021,585,44.6,4
+E12000008,South East,region,14/06/2021,607,43.2,0
+E12000008,South East,region,13/06/2021,570,42.6,2
+E12000008,South East,region,12/06/2021,586,41,5
+E12000008,South East,region,11/06/2021,585,39.9,1
+E12000008,South East,region,10/06/2021,651,39.7,0
+E12000008,South East,region,09/06/2021,506,37.4,0
+E12000008,South East,region,08/06/2021,465,36,2
+E12000008,South East,region,07/06/2021,545,34.7,2
+E12000008,South East,region,06/06/2021,426,32.1,0
+E12000008,South East,region,05/06/2021,485,30,2
+E12000008,South East,region,04/06/2021,563,28.3,2
+E12000008,South East,region,03/06/2021,440,25.9,0
+E12000008,South East,region,02/06/2021,377,24.5,0
+E12000008,South East,region,01/06/2021,345,23.1,0
+E12000008,South East,region,31/05/2021,311,21.9,0
+E12000008,South East,region,30/05/2021,233,21,2
+E12000008,South East,region,29/05/2021,332,19.9,1
+E12000008,South East,region,28/05/2021,338,18,1
+E12000008,South East,region,27/05/2021,310,16.5,1
+E12000008,South East,region,26/05/2021,250,14.9,0
+E12000008,South East,region,25/05/2021,232,13.3,0
+E12000008,South East,region,24/05/2021,232,10.8,2
+E12000008,South East,region,23/05/2021,132,10.1,3
+E12000008,South East,region,22/05/2021,159,10,1
+E12000008,South East,region,21/05/2021,197,10,0
+E12000008,South East,region,20/05/2021,165,9.9,2
+E12000008,South East,region,19/05/2021,108,10.7,0
+E12000008,South East,region,18/05/2021,0,10.9,0
+E12000008,South East,region,17/05/2021,164,13.4,2
+E12000008,South East,region,16/05/2021,124,14.1,3
+E12000008,South East,region,15/05/2021,163,14.2,1
+E12000008,South East,region,14/05/2021,189,14.4,0
+E12000008,South East,region,13/05/2021,230,14.7,1
+E12000008,South East,region,12/05/2021,129,14.9,0
+E12000008,South East,region,11/05/2021,228,15.6,6
+E12000008,South East,region,10/05/2021,228,15.3,0
+E12000008,South East,region,09/05/2021,136,14.8,2
+E12000008,South East,region,08/05/2021,182,14.9,1
+E12000008,South East,region,07/05/2021,215,14.6,0
+E12000008,South East,region,06/05/2021,252,15.1,3
+E12000008,South East,region,05/05/2021,195,15,2
+E12000008,South East,region,04/05/2021,194,15.4,3
+E12000008,South East,region,03/05/2021,182,16.6,0
+E12000008,South East,region,02/05/2021,145,17,4
+E12000008,South East,region,01/05/2021,156,17.3,0
 E12000008,South East,region,30/04/2021,259,17.7,0
 E12000008,South East,region,29/04/2021,250,18.4,0
 E12000008,South East,region,28/04/2021,228,18.5,3
@@ -2896,7 +3616,7 @@ E12000008,South East,region,02/09/2020,103,8.2,2
 E12000008,South East,region,01/09/2020,127,7.8,0
 E12000008,South East,region,31/08/2020,115,7.8,0
 E12000008,South East,region,30/08/2020,123,7.7,2
-E12000008,South East,region,29/08/2020,89,7.5,0
+E12000008,South East,region,29/08/2020,89,7.5,
 E12000008,South East,region,28/08/2020,100,7.6,1
 E12000008,South East,region,27/08/2020,93,7.6,0
 E12000008,South East,region,26/08/2020,67,7.4,1
@@ -3025,12 +3745,102 @@ E12000008,South East,region,26/04/2020,357,35.4,
 E12000008,South East,region,25/04/2020,479,38.9,
 E12000008,South East,region,24/04/2020,562,38.2,
 E12000008,South East,region,23/04/2020,359,38,
-E12000008,South East,region,22/04/2020,397,34.1,
-E12000008,South East,region,21/04/2020,778,29.8,
-E12000008,South East,region,20/04/2020,315,21.3,
-E12000008,South East,region,19/04/2020,678,17.9,
-E12000008,South East,region,18/04/2020,414,10.5,
-E12000008,South East,region,17/04/2020,552,6,
+E12000008,South East,region,22/04/2020,397,,
+E12000008,South East,region,21/04/2020,778,,
+E12000008,South East,region,20/04/2020,315,,
+E12000008,South East,region,19/04/2020,678,,
+E12000008,South East,region,18/04/2020,414,,
+E12000008,South East,region,17/04/2020,552,,
+E12000009,South West,region,29/07/2021,2817,312.6,3
+E12000009,South West,region,28/07/2021,2709,329.7,7
+E12000009,South West,region,27/07/2021,2164,344.3,8
+E12000009,South West,region,26/07/2021,2003,381.5,1
+E12000009,South West,region,25/07/2021,2518,416.3,3
+E12000009,South West,region,24/07/2021,2626,459.1,7
+E12000009,South West,region,23/07/2021,2745,496.1,1
+E12000009,South West,region,22/07/2021,3777,518,3
+E12000009,South West,region,21/07/2021,3533,529.5,4
+E12000009,South West,region,20/07/2021,4259,526.2,7
+E12000009,South West,region,19/07/2021,3960,500.5,2
+E12000009,South West,region,18/07/2021,4925,482.6,1
+E12000009,South West,region,17/07/2021,4703,432.9,1
+E12000009,South West,region,16/07/2021,3978,389.7,1
+E12000009,South West,region,15/07/2021,4426,363.6,6
+E12000009,South West,region,14/07/2021,3346,322.3,2
+E12000009,South West,region,13/07/2021,2816,298.6,3
+E12000009,South West,region,12/07/2021,2953,280.8,0
+E12000009,South West,region,11/07/2021,2125,258.5,2
+E12000009,South West,region,10/07/2021,2274,247.2,0
+E12000009,South West,region,09/07/2021,2511,236.4,1
+E12000009,South West,region,08/07/2021,2105,226.3,0
+E12000009,South West,region,07/07/2021,2009,220.3,1
+E12000009,South West,region,06/07/2021,1816,213.3,2
+E12000009,South West,region,05/07/2021,1702,202.5,1
+E12000009,South West,region,04/07/2021,1487,199,0
+E12000009,South West,region,03/07/2021,1664,186.8,2
+E12000009,South West,region,02/07/2021,1944,175.3,0
+E12000009,South West,region,01/07/2021,1767,159.5,1
+E12000009,South West,region,30/06/2021,1615,149.8,0
+E12000009,South West,region,29/06/2021,1210,138.7,3
+E12000009,South West,region,28/06/2021,1508,129.5,0
+E12000009,South West,region,27/06/2021,799,115.9,1
+E12000009,South West,region,26/06/2021,1019,115.2,2
+E12000009,South West,region,25/06/2021,1051,110.2,0
+E12000009,South West,region,24/06/2021,1224,105.9,1
+E12000009,South West,region,23/06/2021,993,99.1,0
+E12000009,South West,region,22/06/2021,688,92.3,0
+E12000009,South West,region,21/06/2021,746,89.6,0
+E12000009,South West,region,20/06/2021,759,85.3,1
+E12000009,South West,region,19/06/2021,739,80.8,0
+E12000009,South West,region,18/06/2021,810,74.7,0
+E12000009,South West,region,17/06/2021,837,67.4,1
+E12000009,South West,region,16/06/2021,610,59.4,0
+E12000009,South West,region,15/06/2021,539,53.4,0
+E12000009,South West,region,14/06/2021,503,48.5,2
+E12000009,South West,region,13/06/2021,507,43.1,0
+E12000009,South West,region,12/06/2021,396,37.5,2
+E12000009,South West,region,11/06/2021,400,33.4,0
+E12000009,South West,region,10/06/2021,384,30.1,2
+E12000009,South West,region,09/06/2021,275,25.6,0
+E12000009,South West,region,08/06/2021,262,23,1
+E12000009,South West,region,07/06/2021,202,19.9,0
+E12000009,South West,region,06/06/2021,190,17.4,2
+E12000009,South West,region,05/06/2021,164,15.2,0
+E12000009,South West,region,04/06/2021,215,13.8,0
+E12000009,South West,region,03/06/2021,132,11.6,0
+E12000009,South West,region,02/06/2021,128,10.4,0
+E12000009,South West,region,01/06/2021,88,9.4,3
+E12000009,South West,region,31/05/2021,64,9.1,0
+E12000009,South West,region,30/05/2021,66,9.3,0
+E12000009,South West,region,29/05/2021,81,8.9,0
+E12000009,South West,region,28/05/2021,92,9.1,2
+E12000009,South West,region,27/05/2021,65,9,0
+E12000009,South West,region,26/05/2021,75,8.9,0
+E12000009,South West,region,25/05/2021,69,8.6,3
+E12000009,South West,region,24/05/2021,75,7.3,1
+E12000009,South West,region,23/05/2021,46,7.6,0
+E12000009,South West,region,22/05/2021,88,7.9,0
+E12000009,South West,region,21/05/2021,86,7.2,1
+E12000009,South West,region,20/05/2021,63,7.2,1
+E12000009,South West,region,19/05/2021,54,8,1
+E12000009,South West,region,18/05/2021,0,8.5,0
+E12000009,South West,region,17/05/2021,89,10.5,1
+E12000009,South West,region,16/05/2021,66,11.1,0
+E12000009,South West,region,15/05/2021,49,11,0
+E12000009,South West,region,14/05/2021,83,11.7,2
+E12000009,South West,region,13/05/2021,111,12.3,0
+E12000009,South West,region,12/05/2021,79,12.5,1
+E12000009,South West,region,11/05/2021,115,13.4,3
+E12000009,South West,region,10/05/2021,122,13.6,2
+E12000009,South West,region,09/05/2021,62,12.6,0
+E12000009,South West,region,08/05/2021,87,12.6,0
+E12000009,South West,region,07/05/2021,118,12.6,2
+E12000009,South West,region,06/05/2021,120,12.6,0
+E12000009,South West,region,05/05/2021,129,13,3
+E12000009,South West,region,04/05/2021,127,12.6,2
+E12000009,South West,region,03/05/2021,66,13,0
+E12000009,South West,region,02/05/2021,59,13.8,1
+E12000009,South West,region,01/05/2021,87,14.2,1
 E12000009,South West,region,30/04/2021,121,14.6,2
 E12000009,South West,region,29/04/2021,144,14.9,3
 E12000009,South West,region,28/04/2021,103,14.6,0
@@ -3275,7 +4085,7 @@ E12000009,South West,region,02/09/2020,46,6.6,1
 E12000009,South West,region,01/09/2020,49,6.5,0
 E12000009,South West,region,31/08/2020,58,7.1,0
 E12000009,South West,region,30/08/2020,73,6.8,1
-E12000009,South West,region,29/08/2020,45,6.5,0
+E12000009,South West,region,29/08/2020,45,6.5,
 E12000009,South West,region,28/08/2020,49,7.2,1
 E12000009,South West,region,27/08/2020,51,7.3,2
 E12000009,South West,region,26/08/2020,39,7.2,1
@@ -3404,9 +4214,9 @@ E12000009,South West,region,26/04/2020,96,20.1,
 E12000009,South West,region,25/04/2020,173,22.3,
 E12000009,South West,region,24/04/2020,117,23.2,
 E12000009,South West,region,23/04/2020,182,26.6,
-E12000009,South West,region,22/04/2020,184,23.4,
-E12000009,South West,region,21/04/2020,184,20.1,
-E12000009,South West,region,20/04/2020,192,16.9,
-E12000009,South West,region,19/04/2020,221,13.4,
-E12000009,South West,region,18/04/2020,226,9.5,
-E12000009,South West,region,17/04/2020,309,5.5,
+E12000009,South West,region,22/04/2020,184,,
+E12000009,South West,region,21/04/2020,184,,
+E12000009,South West,region,20/04/2020,192,,
+E12000009,South West,region,19/04/2020,221,,
+E12000009,South West,region,18/04/2020,226,,
+E12000009,South West,region,17/04/2020,309,,
